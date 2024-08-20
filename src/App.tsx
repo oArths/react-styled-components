@@ -1,5 +1,4 @@
 
-import './App.css'
 import * as S from "./styles"
 function App() {
 
